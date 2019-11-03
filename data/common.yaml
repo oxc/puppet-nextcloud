@@ -1,0 +1,7 @@
+---
+
+nextcloud::manage_package: True
+nextcloud::install_packages:
+  - nextcloud
+
+nextcloud::config: {}

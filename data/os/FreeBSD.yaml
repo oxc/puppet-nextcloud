@@ -1,0 +1,4 @@
+---
+
+nextcloud::install_packages:
+  - nextcloud-php73

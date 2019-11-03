@@ -1,0 +1,12 @@
+.DS_Store
+*.tmproj
+tmtags
+*~
+\#*
+.\#*
+*.swp
+tags
+pkg/*
+vendor/*
+.bundle/*
+Gemfile.lock
